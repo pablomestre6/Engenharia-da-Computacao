@@ -1,0 +1,14 @@
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.AssemblyInfo.cs
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\bin\Debug\net8.0\ProjetoEmailNet.exe
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\bin\Debug\net8.0\ProjetoEmailNet.deps.json
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\bin\Debug\net8.0\ProjetoEmailNet.runtimeconfig.json
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\bin\Debug\net8.0\ProjetoEmailNet.dll
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\bin\Debug\net8.0\ProjetoEmailNet.pdb
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.dll
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\refint\ProjetoEmailNet.dll
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.pdb
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ProjetoEmailNet.genruntimeconfig.cache
+C:\Users\pablo\Documents\engenharia_com\ProjetoEmailNet\obj\Debug\net8.0\ref\ProjetoEmailNet.dll
