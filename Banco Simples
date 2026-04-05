@@ -1,0 +1,38 @@
+#include <stdio.h>
+
+struct Conta{
+    int numero;
+    float saldo;
+};
+
+void depositar(struct Conta *c, float valor){
+    c->saldo += valor;
+}
+
+void sacar(struct Conta *c, float valor){
+    if(valor <= c->saldo){
+        c->saldo -= valor;
+    }else{
+        printf("Saldo insuficiente\n");
+    }
+}
+
+void exibirSaldo(struct Conta *c){
+    printf("Conta: %d\n", c->numero);
+    printf("Saldo: %.2f\n", c->saldo);
+}
+
+int main(){
+
+    struct Conta conta;
+
+    conta.numero = 1;
+    conta.saldo = 0;
+
+    depositar(&conta, 500);
+    sacar(&conta, 200);
+
+    exibirSaldo(&conta);
+
+    return 0;
+}
